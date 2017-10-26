@@ -1,6 +1,6 @@
-- name: Blog
-  link: /blog/
-- name: About
-  link: /about/
+- name: News
+  link: /news/
+- name: Join us
+  link: /joinus/
 - name: Contact
   link: /contact/
